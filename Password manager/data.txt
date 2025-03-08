@@ -1,0 +1,10 @@
+Facebook | przykładowy@gmail.com| 1234
+YouTube | przykładowy@gmail.com | 5678
+AAA | AAA | AAA 
+aaa | przykładowy@gmail.com | aaa
+BBB | BBB | BBB 
+AAA | przykładowy@gmail.com | AAA
+ | przykładowy@gmail.com |
+ | przykładowy@gmail.com |
+AAA | przykładowy@gmail.com | AAA
+AAA | przykładowy@gmail.com | AAA
